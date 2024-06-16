@@ -1,5 +1,4 @@
-# simple-steam-idler-replit
-24/7 Steam ingame time idler with Replit (simple version)
+24/7 Steam 
 
 1. Register at https://replit.com/
 2. Create a free app
